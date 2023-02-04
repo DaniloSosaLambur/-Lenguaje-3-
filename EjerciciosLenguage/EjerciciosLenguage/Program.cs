@@ -16,7 +16,7 @@ namespace EjerciciosLenguage
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ejercicio2());
+            Application.Run(new Tarea());
         }
     }
 }
